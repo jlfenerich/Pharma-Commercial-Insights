@@ -35,13 +35,16 @@
 ### Project Context
 
 This repository was created with the dual purpose of sharing solutions developed for the challenges proposed in the selection process for the position of Senior Incentive Analyst at HSL Tecnologia, as well as documenting the technical data preparation process.
-Installation and Configuration of SQL Server Locally
+
+### Installation and Configuration of SQL Server Locally
 
 The first step was to install and configure SQL Server on my machine and connect to DBeaver for data handling.
-CSV Import to SQL Server
+
+### CSV Import to SQL Server
 
 The second step of this project involves the careful import of data from CSV files into temporary tables in SQL Server.
-Data Normalization and Structuring
+
+### Data Normalization and Structuring
 
 The normalization step follows, where imported data are restructured and optimized.
 
